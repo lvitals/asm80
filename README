@@ -1,0 +1,18 @@
+# *****************************************************************************
+# Created:		20 November 2011
+# Last modified: 	4/23/2017
+#    Moving to Mercurial and cleaning up the code base.
+# *****************************************************************************
+
+
+To built this package, do the following:
+
+	./autogen.sh
+	./configure
+	make
+
+To install this package, do the following:
+
+	make install
+
+
